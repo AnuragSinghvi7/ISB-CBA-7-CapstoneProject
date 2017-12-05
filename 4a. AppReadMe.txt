@@ -1,1 +1,11 @@
+Follow below instructions:
 
+1. Ensure you have R version 3.3 installed
+2. Ensure following packages are installed
+  shiny,DT,shinythemes,sys,data.table,xgboost,caret,ROSE,randomForest,pROC
+3. Unzip this file - https://github.com/AnuragSinghvi7/ISB-CBA-7-CapstoneProject/blob/master/4b.%20Interactive%20Application.zip
+4. Set working directory to unzipped folder
+5. Open app.R in RStudio
+6. click "Run App"
+7. Give inputs a) Model, b) Parameter and c) Parameter Value
+8. Hit "RUN" and wait for it to complete. RandomForest and XGBoost may take 10-15 mins to run depending on machine specifications.
